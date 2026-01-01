@@ -26,7 +26,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "@ll_Danger_Rdx_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@l_Danger_xd_ll")
 BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
 BOT_NAME = getenv("BOT_NAME", "SAPNA")
 ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
@@ -36,7 +36,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002958659036))
 OWNER_ID = int(getenv("OWNER_ID", 6762113050))
 
 # Heroku
@@ -45,13 +45,13 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 DEEP_API = getenv("DEEP_API")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yashsahu7468-rgb/STRANGER-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yashsahu7468-rgb/STRANGER-MUSIC)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KASHU_MUSIC_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xB1SskYXacI1M2U1)
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KASHU_UPDATES")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+4PFz7VavlSlkNzQ1")
 
 # YT-API Get from @AmShashank on tg
 YOUR_API_KEY = getenv("YOUR_API_KEY", "stranger")
