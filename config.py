@@ -26,7 +26,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "@l_Danger_xd_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@l_Danger_xd_ll)
 BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
 BOT_NAME = getenv("BOT_NAME", "SAPNA")
 ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
