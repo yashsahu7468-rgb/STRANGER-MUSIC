@@ -31,8 +31,8 @@ import aiohttp
 from SHUKLAMUSIC import LOGGER
 from urllib.parse import urlparse
 
-API_BASE_URL = "http://139.59.31.247:8080"
-API_KEY = os.getenv("API_KEY", "")
+API_BASE_URL = "https://riyabots.site"
+API_KEY = os.getenv("API_KEY", "StrangerApi5643e21")
 
 async def get_telegram_file(telegram_url: str, video_id: str, file_type: str) -> str:
     logger = LOGGER("StrangerAPI/Youtube.py")
