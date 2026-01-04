@@ -34,7 +34,7 @@ from SHUKLAMUSIC import LOGGER
 from urllib.parse import urlparse
 
 API_BASE_URL = "https://riyabots.site"
-API_KEY = os.getenv("API_KEY", "put_your_key")
+API_KEY = os.getenv("API_KEY", "StrangerApi5643e21)
 
 async def get_telegram_file(telegram_url: str, video_id: str, file_type: str) -> str:
     logger = LOGGER("StrangerAPI/Youtube.py")
