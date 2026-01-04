@@ -1,9 +1,10 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    鈹€銆� 饾悞岽浭€岽€纱散岽囀€ 饾槄 饾悓岽渟瑟岽� 銆嶁攢
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/yashsahu7468-rgb/STRANGER-MUSIC
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=銋�+饾殕饾櫞饾櫥饾櫜饾櫨饾櫦饾櫞+饾殐饾櫨+饾殏饾殐饾殎饾櫚饾櫧饾櫠饾櫞饾殎+饾櫦饾殑饾殏饾櫢饾櫜+饾殎饾櫞饾櫩饾櫨+;銋�+饾殐饾櫡饾櫢饾殏+饾櫢饾殏+饾櫚+饾櫚饾櫝饾殔饾櫚饾櫧饾櫜饾櫞+饾櫦饾殑饾殏饾櫢饾櫜+饾櫛饾櫨饾殐;饾櫩饾櫨饾殕饾櫞饾殎饾櫞饾櫝+饾櫛饾殘+鈽�+饾棫饾棝饾棙+饾棫饾棙饾棓饾棤+饾棪饾棫饾棩饾棓饾棥饾棜饾棙饾棩)](https://github.com/yashsahu7468-rgb/STRANGER-MUSIC)
+
 
 
 <p align="center">
@@ -12,10 +13,10 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=饾棛饾棦饾棩饾棡+饾棫饾棝饾棞饾棪+饾棩饾棙饾棧饾棦+饾棔饾棙饾棛饾棦饾棩饾棙+饾棗饾棙饾棧饾棢饾棦饾棳)
 
 
-## 🍁 About This Bot :
+## 馃崄 About This Bot :
 
 </p>
 <p align='center'>
@@ -23,10 +24,10 @@
 </p>
 
 
-## ♢ How to make your own :
+## 鈾� How to make your own :
 
 
-#### ♢ Click on This Drop-down and get more details
+#### 鈾� Click on This Drop-down and get more details
 <br>
 <details>
   <summary><b>Deploy on Heroku:</b></summary>
@@ -35,13 +36,13 @@
 1. Fork This Repo
 2. Click on the button to Deploy and follow steps
 
-<h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
+<h4> So Follow Above Steps 馃憜 and then deploy other wise bot won't work</h4>
 
 Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
-### 💜 Heroku
+### 馃挏 Heroku
 
-<p align="center"><a href="https://github.com/yashsahu7468-rgb/STRANGER-MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/yashsahu7468-rgb/STRANGER-MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br>
 
@@ -53,18 +54,18 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
   
 <p>
 
-🚀Features<p>
-💥Superfast⚡️ download and stream links.<br>
-💥No ads in playing songs.<br>
-💥Superfast interface.<br>
-💥Updates channel Support.<br>
-💥Mongodb database support for broadcasting.<br>
-💥User Freindly Interface.<br>
-💥Ping check.<br>
-💥Kickme and Video Chat Notifier are Available.<br>
-💥Real time CPU , RAM , Internet usage. <br>
-💥All unwanted code removed. <br>
-💥A lot more tired of writing check out by deploying it. 
+馃殌Features<p>
+馃挜Superfast鈿★笍 download and stream links.<br>
+馃挜No ads in playing songs.<br>
+馃挜Superfast interface.<br>
+馃挜Updates channel Support.<br>
+馃挜Mongodb database support for broadcasting.<br>
+馃挜User Freindly Interface.<br>
+馃挜Ping check.<br>
+馃挜Kickme and Video Chat Notifier are Available.<br>
+馃挜Real time CPU , RAM , Internet usage. <br>
+馃挜All unwanted code removed. <br>
+馃挜A lot more tired of writing check out by deploying it. 
 </details>
 <details>
   <summary><b>Host it on VPS Locally :</b></summary>
@@ -136,23 +137,23 @@ STRING_SESSION=
  
 - `/start` : To check if the bot is alive or not.
 
-- `/play ᴏʀ /vplay ᴏʀ /cplay` : sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.
+- `/play 岽徥€ /vplay 岽徥€ /cplay` : s岽涐磤蕗岽泂 s岽浭€岽囜磤岽嵣瓷� 岽浭溼磭 蕗岽嚽礈岽噑岽涐磭岽� 岽浭€岽€岽勧磱 岽徤� 岽犐磪岽囜磸岽勈溼磤岽�.
 
-- `/playforce ᴏʀ /vplayforce ᴏʀ /cplayforce` : **ғᴏʀᴄᴇ ᴩʟᴀʏ** sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
+- `/playforce 岽徥€ /vplayforce 岽徥€ /cplayforce` : **覔岽徥€岽勧磭 岽┦熱磤蕪** s岽涐磸岽﹕ 岽浭溼磭 岽徤瓷⑨磸瑟纱散 s岽浭€岽囜磤岽� 岽€纱岽� s岽涐磤蕗岽泂 s岽浭€岽囜磤岽嵣瓷� 岽浭溼磭 蕗岽嚽礈岽噑岽涐磭岽� 岽浭€岽€岽勧磱.
 
-- `/channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ]` : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
+- `/channelplay [岽勈溼磤岽� 岽渟岽囀€纱岽€岽嶀磭 岽徥€ 瑟岽匽 岽徥€ [岽吷猻岽€蕶薀岽嘳` : 岽勧磸纱纱岽囜磩岽� 岽勈溼磤纱纱岽囀� 岽涐磸 岽€ 散蕗岽忈礈岽� 岽€纱岽� s岽涐磤蕗岽泂 s岽浭€岽囜磤岽嵣瓷� 岽浭€岽€岽勧磱s 蕶蕪 岽浭溼磭 蕼岽囀熱穿 岽徱� 岽勧磸岽嶀磵岽€纱岽卻 s岽嚿瘁礇 瑟纱 散蕗岽忈礈岽�.
 
-- `/seek` : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
+- `/seek` : s岽囜磭岽� 岽浭溼磭 s岽浭€岽囜磤岽� 岽涐磸 岽浭溼磭 散瑟岽犪磭纱 岽呩礈蕗岽€岽浬磸纱.
 
-- `/seekback` : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
+- `/seekback` : 蕶岽€岽勧磱岽♂磤蕗岽� s岽囜磭岽� 岽浭溼磭 s岽浭€岽囜磤岽� 岽涐磸 岽浭溼磭 岽浭溼磭 散瑟岽犪磭纱 岽呩礈蕗岽€岽浬磸纱.
 
-- `/pause` : ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
+- `/pause` : 岽┽磤岽渟岽� 岽浭溼磭 岽勧礈蕗蕗岽嚿瘁礇 岽┦熱磤蕪瑟纱散 s岽浭€岽囜磤岽�.
 
-- `/resume` : ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ.
+- `/resume` : 蕗岽噑岽溼磵岽� 岽浭溼磭 岽┽磤岽渟岽囜磪 s岽浭€岽囜磤岽�.
 
-- `/skip` : sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ɴᴇxᴛ ᴛʀᴀᴄᴋ ɪɴ ǫᴜᴇᴜᴇ.
+- `/skip` : s岽嬌穿 岽浭溼磭 岽勧礈蕗蕗岽嚿瘁礇 岽┦熱磤蕪瑟纱散 s岽浭€岽囜磤岽� 岽€纱岽� s岽涐磤蕗岽� s岽浭€岽囜磤岽嵣瓷� 岽浭溼磭 纱岽噚岽� 岽浭€岽€岽勧磱 瑟纱 谦岽溼磭岽溼磭.
 
-- `/end ᴏʀ /stop` : ᴄʟᴇᴀʀs ᴛʜᴇ ǫᴜᴇᴜᴇ ᴀɴᴅ ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
+- `/end 岽徥€ /stop` : 岽勈熱磭岽€蕗s 岽浭溼磭 谦岽溼磭岽溼磭 岽€纱岽� 岽嚿瘁磪 岽浭溼磭 岽勧礈蕗蕗岽嚿瘁礇 岽┦熱磤蕪瑟纱散 s岽浭€岽囜磤岽�.
 
 To get an instant result do /reboot in chat of logger .
   
