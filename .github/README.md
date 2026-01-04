@@ -3,8 +3,7 @@
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/itzshukla/STRANGER-MUSIC)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝚃𝚁𝙰𝙽𝙶𝙴𝚁+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/yashsahu7468-rgb/STRANGER-MUSIC
 
 
 <p align="center">
@@ -42,7 +41,7 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://github.com/yashsahu7468-rgb/STRANGER-MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br>
 
@@ -77,7 +76,7 @@ sudo apt-get install python3-pip -y
 sudo pip3 install -U pip
 curl -fssL
 https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-git clone https://github.com/itzshukla/STRANGER-MUSIC && cd STRANGER-MUSIC
+git clone https://github.com/yashsahu7468-rgb/STRANGER-MUSIC && cd STRANGER-MUSIC
 pip3 install -U -r requirements.txt
 bash setup
 sudo apt install tmux
