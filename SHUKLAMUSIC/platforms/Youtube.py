@@ -1,3 +1,4 @@
+Rishant ʜɪɴᴅᴜ ᴄᴏᴍᴍᴜɴɪᴛʏ ™:
 # ---------------------------------------------------------------
 # 🔸 Shashank YT-API Project
 # 🔹 Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
@@ -108,7 +109,9 @@ async def get_telegram_file(telegram_url: str, video_id: str, file_type: str) ->
                 timeout += 0.5
 
             if os.path.exists(file_path):
-                logger.info(f"✅ [TELEGRAM] Downloaded: {video_id}")return file_path
+                logger.info(f"✅ [TELEGRAM] Downloaded: {video_id}")
+
+return file_path
             else:
                 logger.error(f"❌ [TELEGRAM] Timeout: {video_id}")
                 return None
@@ -222,7 +225,9 @@ async def download_video(link: str) -> str:
 
                 if response.status != 200:
                     logger.error(f"❌ [VIDEO] API error: {response.status}")
-                    return Nonedata = await response.json()
+                    return None
+
+data = await response.json()
                 logger.info(f"📦 [VIDEO] API Response: {data}")
 
                 if data.get("telegram_url"):
@@ -330,7 +335,9 @@ class YouTubeAPI:
                         return entity.url
         return None
 
-    async def details(self, link: str, videoid: Union[bool, str] = None):if videoid:
+    async def details(self, link: str, videoid: Union[bool, str] = None):
+
+if videoid:
             link = self.base + link
         if "&" in link:
             link = link.split("&")[0]
@@ -431,7 +438,9 @@ class YouTubeAPI:
             r = ydl.extract_info(link, download=False)
             for format in r["formats"]:
                 try:
-                    if "dash" not in str(format["format"]).lower():formats_available.append(
+                    if "dash" not in str(format["format"]).lower():
+
+formats_available.append(
                             {
                                 "format": format["format"],
                                 "filesize": format.get("filesize"),
@@ -489,73 +498,4 @@ class YouTubeAPI:
         except Exception as e:
             logger = LOGGER("StrangerAPI/Youtube.py")
             logger.error(f"❌ Download failed: {e}")
-            return None, False# ---------------------------------------------------------------
-# 🔸 Shashank YT-API Project
-# 🔹 Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
-# 📅 Copyright © 2025 – All Rights Reserved
-#
-# 📖 License:
-# This source code is open for educational and non-commercial use ONLY.
-# You are required to retain this credit in all copies or substantial portions of this file.
-# Commercial use, redistribution, or removal of this notice is strictly prohibited
-# without prior written permission from the author.
-#
-# ❤️ Made with dedication and love by ItzShukla
-# ---------------------------------------------------------------
-
-import asyncio
-import os
-import re
-import json
-from typing import Union
-import requests
-import yt_dlp
-from pyrogram.enums import MessageEntityType
-from pyrogram.types import Message
-from py_yt import VideosSearch
-from ..utils.database import is_on_off
-from ..utils.formatters import time_to_seconds
-from SHUKLAMUSIC import app
-import random
-import logging
-import aiohttp
-from SHUKLAMUSIC import LOGGER
-from urllib.parse import urlparse
-
-API_BASE_URL = "https://riyabots.site"
-API_KEY = os.getenv("API_KEY", "StrangerApi5643e21")
-
-async def get_telegram_file(telegram_url: str, video_id: str, file_type: str) -> str:
-    logger = LOGGER("StrangerAPI/Youtube.py")
-    try:
-        extension = ".webm" if file_type == "audio" else ".mkv"
-        file_path = os.path.join("downloads", f"{video_id}{extension}")
-
-        if os.path.exists(file_path):
-            logger.info(f"📂 [LOCAL] File exists: {video_id}")
-            return file_path
-
-        parsed = urlparse(telegram_url)
-        parts = parsed.path.strip("/").split("/")
-
-        if len(parts) < 2:
-            logger.error(f"❌ Invalid Telegram link format: {telegram_url}")
-            return None
-
-        channel_name = parts[0]
-        message_id = int(parts[1])
-
-        logger.info(f"📥 [TELEGRAM] Downloading from @{channel_name}/{message_id}")
-
-        msg = await app.get_messages(channel_name, message_id)
-
-        os.makedirs("downloads", exist_ok=True)
-        await msg.download(file_name=file_path)
-
-        timeout = 0
-        while not os.path.exists(file_path) and timeout < 60:
-            await asyncio.sleep(0.5)
-            timeout += 0.5
-
-        if os.path.exists(file_path):
-            logger.inf
+            return None, False
