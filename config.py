@@ -50,7 +50,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KASHU_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KASHIKA_MUSIC_UPDATE")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+4PFz7VavlSlkNzQ1")
 
 # YT-API Get from @AmShashank on tg
