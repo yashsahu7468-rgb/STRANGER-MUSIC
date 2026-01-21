@@ -26,7 +26,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "@l_Danger_xd_ll)
+OWNER_USERNAME = getenv("OWNER_USERNAME", "l_Danger_xd_ll")
 BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
 BOT_NAME = getenv("BOT_NAME", "SAPNA")
 ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
@@ -36,8 +36,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1003693317577)
-OWNER_ID = int(getenv("OWNER_ID", 6225033257)
+LOGGER_ID = int(getenv("LOGGER_ID", -1003693317577))
+OWNER_ID = int(getenv("OWNER_ID", 6225033257))
 
 # Heroku
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -45,7 +45,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 DEEP_API = getenv("DEEP_API")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yashsahu7468-rgb/STRANGER-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yashsahu7468-rgb/STRANGER-MUSIC.git")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -54,8 +54,8 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MRPRAKASHYTCHAT")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MRPRAKASHYTCHAT")
 
 # YT-API Get from @AmShashank on tg
-YOUR_API_KEY = getenv("YOUR_API_KEY", "StrangerApi5643e21")
-YOUR_API_URL = getenv("YOUR_API_URL", "https://riyabots.site")
+YOUR_API_KEY = getenv("YOUR_API_KEY", "stranger")
+YOUR_API_URL = getenv("YOUR_API_URL", "http://46.38.237.240:8000")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
